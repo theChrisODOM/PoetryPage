@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  background-color: #1f1a14;
+}
+
+Body {
+  background-color: #1f1a14;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #1f1a14;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(14px + 2vmin);
+  color: white;
+}
+
+.PoetrySection {
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70vw;
+  min-height: 90vh;
+  border: solid 2px rgb(51, 45, 45);
+  color: white;
+}
+
+.PoetryCard {
+  margin-top: 5rem;
+  margin-left: 1rem;
+  font-size: calc(6px + 1vmin);
+  display: flex;
+  flex-direction: row;
+}
+
+.PoetryDate {
+  font-size: calc(8px + 1vmin);
+  min-width: 4rem;
+}
+
+.PoetryText {
+  font-size: calc(6px + 1vmin);
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-align: justify;
+  text-justify: inter-word;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
