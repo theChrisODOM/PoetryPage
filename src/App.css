@@ -7,13 +7,8 @@ Body {
   background-color: #1f1a14;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
 .App-header {
-  background-color: #1f1a14;
+  background-color: #332a1f;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
@@ -23,10 +18,10 @@ Body {
 }
 
 .PoetrySection {
-  margin-top: 5rem;
   margin-left: auto;
   margin-right: auto;
   width: 70vw;
+  min-width: 28rem;
   min-height: 90vh;
   border: solid 2px rgb(51, 45, 45);
   color: white;
@@ -34,20 +29,21 @@ Body {
 
 .PoetryCard {
   margin-top: 5rem;
+  margin-bottom: 5rem;
   margin-left: 1rem;
-  font-size: calc(6px + 1vmin);
+  font-size: 5rem;
   display: flex;
   flex-direction: row;
 }
 
 .PoetryDate {
-  font-size: calc(8px + 1vmin);
-  min-width: 4rem;
+  font-size: 24px;
+  width: 6rem;
 }
 
 .PoetryText {
-  font-size: calc(6px + 1vmin);
-  padding-left: 2rem;
+  font-size: 20px;
+  padding-left: 1rem;
   padding-right: 2rem;
   text-align: justify;
   text-justify: inter-word;

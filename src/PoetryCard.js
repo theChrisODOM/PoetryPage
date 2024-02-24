@@ -5,7 +5,7 @@ export const PoetryCard = ( { date, poetry } ) => {
         <div className="PoetryCard">
             <span className="PoetryDate">
                 <b>
-                    {date}: 
+                    {date} {">"}
                 </b>
             </span>
             <span className="PoetryText">
