@@ -1,10 +1,17 @@
 .App {
   text-align: center;
-  background-color: #1f1a14;
+  background-color: #000000;
 }
 
 Body {
-  background-color: #1f1a14;
+  background-color: #000000;
+}
+
+.title {
+  word-break: break-word;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-header {
@@ -17,20 +24,29 @@ Body {
   color: white;
 }
 
+.filterBox {
+  min-width: 20rem;
+}
+
 .PoetrySection {
   margin-left: auto;
+  background-color: #1f1a14;
   margin-right: auto;
   width: 70vw;
-  min-width: 28rem;
+  min-width: 26rem;
   min-height: 90vh;
   border: solid 2px rgb(51, 45, 45);
   color: white;
 }
 
 .PoetryCard {
-  margin-top: 5rem;
+  border: solid 2px rgb(51, 45, 45);
+  margin-top: 3rem;
   margin-bottom: 5rem;
   margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 2rem;
+  box-shadow: 10px 10px 100px black inset;
   font-size: 5rem;
   display: flex;
   flex-direction: row;
