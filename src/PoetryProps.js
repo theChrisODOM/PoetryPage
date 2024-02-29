@@ -9,8 +9,11 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("2/28/24", "\"Just do it. Just do it.  Don't let your dreams be dreams.  Yesterday you said tomorrow, so just do it.  Make your dreams come true. Just do it.\" ~ Shia Leabouf"),
+        PoetryProps("2/28/24", "It was never \"my way or the high way\".  ~ me"),
+        PoetryProps("2/28/24", "It is not that my way is the right way. The right way is the right way, and I do things the right way.  ~ me"),
         PoetryProps("2/25/24", "There are two secrets of life: One, do not tell anyone everything you know."),
-        PoetryProps("2/25/24", "Never tell somebody everything, you may be education an enemy."),
+        PoetryProps("2/25/24", "Never tell somebody everything, you may be educating an enemy."),
         PoetryProps("2/25/24", "If the truth shall kill them ... let them die."),
         PoetryProps("2/25/24", "One week they love me, the next week they hate me.  Both weeks I get paid."),
         PoetryProps("2/25/24", "\"Stree does not come from hard work.  Stress primarily comes from not taking action over something that you can have some control over.  Stress comes from ignoring things you should not be ignoring.\" ~ Jeffrey Bezos"),
