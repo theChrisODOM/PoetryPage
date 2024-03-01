@@ -9,6 +9,7 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("2/29/24", "\"Shhh.  Everyone's brain is noisy, that's what it does it makes thoughts.  The problem is that the root of suffering is following that Brain Noise and listening to that Brain Noise, and actually identifying with it as if it is who you are.\" ~ Chris Evans"),
         PoetryProps("2/28/24", "\"Just do it. Just do it.  Don't let your dreams be dreams.  Yesterday you said tomorrow, so just do it.  Make your dreams come true. Just do it.\" ~ Shia Leabouf"),
         PoetryProps("2/28/24", "It was never \"my way or the high way\".  ~ me"),
         PoetryProps("2/28/24", "It is not that my way is the right way. The right way is the right way, and I do things the right way.  ~ me"),
