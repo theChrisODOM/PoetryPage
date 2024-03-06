@@ -9,12 +9,12 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
-        PoetryProps("2/29/24", "\"Only women childen and dogs are loved unconditionally. Men are loved on the condition that they can provide something.\" ~ Chris Rock"),
-        PoetryProps("2/29/24", "You have to ride the waves of rage in order to rest on the beach of peace."),
-        PoetryProps("2/29/24", "You can exatract a bullet from a wound, but the pain will still linger."),
-        PoetryProps("2/29/24", "All buildings, reagardless of how they are built, fall the same."),
-        PoetryProps("2/29/24", "\"You cannot open a door, and tell someone how to walk through it.\" ~ J"),
-        PoetryProps("2/29/24", "\"If it makes sense you must do the opposite\""),
+        PoetryProps("3/5/24", "\"Only women childen and dogs are loved unconditionally. Men are loved on the condition that they can provide something.\" ~ Chris Rock"),
+        PoetryProps("3/5/24", "You have to ride the waves of rage in order to rest on the beach of peace."),
+        PoetryProps("3/5/24", "You can exatract a bullet from a wound, but the pain will still linger."),
+        PoetryProps("3/5/24", "All buildings, reagardless of how they are built, fall the same."),
+        PoetryProps("3/5/24", "\"You cannot open a door, and tell someone how to walk through it.\" ~ J"),
+        PoetryProps("3/5/24", "\"If it makes sense you must do the opposite\""),
         PoetryProps("2/29/24", "\"Red eyes are signs of high highs and low lows.\" ~ me"),
         PoetryProps("2/29/24", "\"Whatever.\""),
         PoetryProps("2/29/24", "\"Shhh.  Everyone's brain is noisy, that's what it does it makes thoughts.  The problem is that the root of suffering is following that Brain Noise and listening to that Brain Noise, and actually identifying with it as if it is who you are.\" ~ Chris Evans"),
