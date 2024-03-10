@@ -9,6 +9,16 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("3/10/24", "\"I had a friend who self-harmed as a result of Bullying.  I asked him, \"Who's side are you on?\"\""),
+        PoetryProps("3/10/24", "You won't find the same person twice, not even in the same person."),
+        PoetryProps("3/10/24", "In life it is either \"Cook\" or be cooked."),
+        PoetryProps("3/10/24", "Never give up on a goal because of the time it takes to achieve it.  Time is going to pass anyways."),
+        PoetryProps("3/10/24", "You don't know what you don't know."),
+        PoetryProps("3/10/24", "Work like it depends on you, pray like it depends on GOD."),
+        PoetryProps("3/10/24", "Good strategy in life makes all the difference."),
+        PoetryProps("3/10/24", "If it does not bring you peace, profits, or purpose, stop giving it time, enery, or attention."),
+        PoetryProps("3/10/24", "You can't always be the most talented person in the room, but you can be the most competitive."),
+        PoetryProps("3/10/24", "\"You cannot take advice only from those who succeed but also those who have failed.\" ~ David Buggay"),
         PoetryProps("3/5/24", "\"Only women childen and dogs are loved unconditionally. Men are loved on the condition that they can provide something.\" ~ Chris Rock"),
         PoetryProps("3/5/24", "You have to ride the waves of rage in order to rest on the beach of peace."),
         PoetryProps("3/5/24", "You can exatract a bullet from a wound, but the pain will still linger."),
