@@ -9,6 +9,9 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("3/31/24", "\"He is Risen!\""),
+        PoetryProps("3/31/24", "Christ is lord."),
+        PoetryProps("3/30/24", "Never turnt down, always turnt up"),
         PoetryProps("3/17/24", "Contentment is destoryed by comparison."),
         PoetryProps("3/16/24", "A man who lacks purpose distracts himself with pleasure."),
         PoetryProps("3/15/24", "To be old and wise you must first be young and stupid."),
