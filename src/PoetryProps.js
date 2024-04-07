@@ -9,6 +9,11 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("4/7/24", "It always one day, or day one."),
+        PoetryProps("4/7/24", "If you want the rainbow, you have to put up the rain."),
+        PoetryProps("4/7/24", "Idle hands are the devil's playground."),
+        PoetryProps("4/7/24", "My trauma is not traditional trauma, having received mental or physical violence against myself, but it is the pressure to succeed, to deliver, to provide, to protect, not only for myself, but for friends and family and my partner, who ever they may be."),
+        PoetryProps("4/5/24", "Rizzler. ~ Marguerite Kelly"),
         PoetryProps("3/31/24", "\"He is Risen!\""),
         PoetryProps("3/31/24", "Christ is lord."),
         PoetryProps("3/30/24", "Never turnt down, always turnt up"),
