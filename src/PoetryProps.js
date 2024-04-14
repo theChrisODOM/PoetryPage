@@ -9,7 +9,9 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
-        PoetryProps("4/7/24", "It always one day, or day one."),
+        PoetryProps("4/14/24", "There is deep conflication in me, wanting to please the flesh while also pleasing the soul.  Ideally those should never conflict."),
+        PoetryProps("4/14/24", "I do not desire mediocre love, I want to drown in someone."),
+        PoetryProps("4/14/24", "I hate that I do not yet know you; I will struggle with the fact that the time I can spend with you is being reduced each day you are not yet in my life. ~ me"),
         PoetryProps("4/7/24", "If you want the rainbow, you have to put up the rain."),
         PoetryProps("4/7/24", "Idle hands are the devil's playground."),
         PoetryProps("4/7/24", "My trauma is not traditional trauma, having received mental or physical violence against myself, but it is the pressure to succeed, to deliver, to provide, to protect, not only for myself, but for friends and family and my partner, who ever they may be."),
