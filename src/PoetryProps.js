@@ -9,9 +9,11 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
-        PoetryProps("4/14/24", "Lover? If I describe love, it is when I am in a friendship with a woman, and I am finding gratification out of seeing her happy, at that point I think I am in love with her. ~ 50 cent"),
-        PoetryProps("4/14/24", "I learned you need to destroy in order to grow. ~ Alpha Hijari"),
-        PoetryProps("4/14/24", "The pain. It will leave you once it’s done teaching you. ~ Alpha Hijari"),
+        PoetryProps("4/28/24", "The mystery of life is not a problem to be solved, but a reality to be experienced."),
+        PoetryProps("4/28/24", "Theres a reason acceptance is a stage of grief rather than a marker for its end."),
+        PoetryProps("4/21/24", "Lover? If I describe love, it is when I am in a friendship with a woman, and I am finding gratification out of seeing her happy, at that point I think I am in love with her. ~ 50 cent"),
+        PoetryProps("4/21/24", "I learned you need to destroy in order to grow. ~ Alpha Hijari"),
+        PoetryProps("4/21/24", "The pain. It will leave you once it’s done teaching you. ~ Alpha Hijari"),
         PoetryProps("4/21/24", "Only a weak man can benefit from this, only a strong man can survive it. ~ Alpha Hijari"),
         PoetryProps("4/21/24", "Rock bottom teaches you things the mountain top never will."),
         PoetryProps("4/14/24", "I hate that I do not yet know you; I will struggle with the fact that the time I can spend with you is being reduced each day you are not yet in my life. ~ me"),
