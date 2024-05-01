@@ -9,6 +9,7 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("5/1/24", "There are two types of people in this world, those who want to get laid, and liers> ~ Welden"),
         PoetryProps("4/28/24", "The mystery of life is not a problem to be solved, but a reality to be experienced."),
         PoetryProps("4/28/24", "Theres a reason acceptance is a stage of grief rather than a marker for its end."),
         PoetryProps("4/21/24", "Lover? If I describe love, it is when I am in a friendship with a woman, and I am finding gratification out of seeing her happy, at that point I think I am in love with her. ~ 50 cent"),
