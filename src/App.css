@@ -15,7 +15,7 @@ Body {
 }
 
 .App-header {
-  background-color: #332a1f;
+  background-color: #084386;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
@@ -30,17 +30,17 @@ Body {
 
 .PoetrySection {
   margin-left: auto;
-  background-color: #1f1a14;
+  background-color: #07295c;
   margin-right: auto;
   width: 70vw;
   min-width: 26rem;
   min-height: 90vh;
-  border: solid 2px rgb(51, 45, 45);
+  border: solid 2px rgb(122, 108, 172);
   color: white;
 }
 
 .PoetryCard {
-  border: solid 2px rgb(51, 45, 45);
+  border: solid 2px rgb(129, 125, 184);
   margin-top: 3rem;
   margin-bottom: 5rem;
   margin-left: 1rem;
