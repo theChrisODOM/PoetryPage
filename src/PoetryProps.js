@@ -9,6 +9,10 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("5/5/24", "Family is an important end goal for me.  I want a wife, I want children, I want legacy.  It is for this reason, I do all of the things that I do."),
+        PoetryProps("5/5/24", "I do not hate you, I do not villanize you.  Things were never supposed to end the way that they did, and I know that we are both broken people.  Forgiveness and healing is all I wish for you.  You have a lot of trauma and scares, and all I ever wanted to be was a safe space for you."),
+        PoetryProps("5/5/24", "No one else can you make you feel a certain way, unless you yourself agree to it."),
+        PoetryProps("5/4/24", "I am my own worst bully"),
         PoetryProps("5/2/24", "When surrounded by darkness your only duty is to shine."),
         PoetryProps("5/1/24", "There are two types of people in this world, those who want to get laid, and liers> ~ Welden"),
         PoetryProps("4/28/24", "The mystery of life is not a problem to be solved, but a reality to be experienced."),
