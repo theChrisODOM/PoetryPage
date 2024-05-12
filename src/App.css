@@ -15,8 +15,12 @@ Body {
 }
 
 .App-header {
-  background-color: #084386;
-  min-height: 10vh;
+  background-image: url("/public/meow.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% -35vw;
+  background-attachment: fixed;
+  min-height: 30vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
