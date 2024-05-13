@@ -9,6 +9,8 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("5/12/24", "No matter how many times you rewatch a film, it always ends the same."),
+        PoetryProps("5/12/24", "One day I will become what is I want to be."),
         PoetryProps("5/11/24", "Shared joy is double joy, shared sorrow is half sorrow."),
         PoetryProps("5/11/24", "Stop looking for your soulmate, and start looking for your soul, mate."),
         PoetryProps("5/5/24", "Some may disagree, but it is beautiful how in life there will be people, who will be complete and total strangers in the world, and for a fraction of a moment in time, become the most intimate and close people, only to become complete and total strangers again.  I think of my life in the back room on that island, listening to the birds and the rain, dreaming of going to the pool, or eating at the club house.  Later to lose that island, but to be living a life where I am your rock, supporting you like I did on that \"Saturday\".  Only to now, I go days, weeks in between each time you cross my mind. "),
