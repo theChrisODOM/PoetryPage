@@ -16,11 +16,11 @@ Body {
 
 .App-header {
   background-image: url("/public/meow.png");
-  background-size: cover;
+  background-size: 90vw;
   background-repeat: no-repeat;
-  background-position: 50% -35vw;
-  background-attachment: fixed;
-  min-height: 30vh;
+  background-position: 50% -20vw;
+  background-attachment: local;
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   justify-content: center;

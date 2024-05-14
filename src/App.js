@@ -15,13 +15,14 @@ function App() {
   return (
     <div className="App">
       <div className="PoetrySection">
-        <header className="App-header">
-        </header>
         <br></br>
           <div className="title">
             <img height="64rem" width="64rem" src="/favicon.ico" alt="a green book"></img>
             @csodom Poetry
           </div>
+        <br></br>
+        <header className="App-header">
+        </header>
         <br></br>
           A home for all types of poems and important quotes, dated when I found them, and cited when possible.
         <br></br>
