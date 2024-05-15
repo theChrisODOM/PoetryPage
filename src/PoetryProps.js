@@ -9,6 +9,7 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("5/14/24", "Your older self is counting on you, your younger self is believing in you."),
         PoetryProps("5/12/24", "No matter how many times you rewatch a film, it always ends the same."),
         PoetryProps("5/12/24", "One day I will become what is I want to be."),
         PoetryProps("5/11/24", "Shared joy is double joy, shared sorrow is half sorrow."),
