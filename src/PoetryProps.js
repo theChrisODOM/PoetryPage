@@ -9,7 +9,9 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
-        PoetryProps("5/14/24", "The question of worth it is reliant on an outcome, its not the mindset to make something great.  Your work is to make the best thing you can, whatever happens after that, happens."),
+        PoetryProps("5/16/24", "Lust Rushes, Love Waits."),
+        PoetryProps("5/15/24", "I saw Snoqualmie Falls today."),
+        PoetryProps("5/15/24", "The question of worth it is reliant on an outcome, its not the mindset to make something great.  Your work is to make the best thing you can, whatever happens after that, happens."),
         PoetryProps("5/15/24", "Before you can do something, you must first become something."),
         PoetryProps("5/14/24", "Your older self is counting on you, your younger self is believing in you."),
         PoetryProps("5/12/24", "No matter how many times you rewatch a film, it always ends the same."),
