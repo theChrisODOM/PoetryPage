@@ -9,6 +9,11 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("5/18/24", "Don't you want your first impression to be your best self?"),
+        PoetryProps("5/18/24", "If the rule you followed brought you to this, what use the rule?"),
+        PoetryProps("5/18/24", "You who suffers before it is necessary, suffers more than is necessary."),
+        PoetryProps("5/18/24", "You cannot control the wind, but you can adjust your sails."),
+        PoetryProps("5/18/24", "Some may disagree, but it is beautiful how in life there will be people, who will be complete and total strangers in the world, and for a fraction of a moment in time, become the most intimate and close people, only to become complete and total strangers again.  I think of my life in the back room on that island, listening to the birds and the rain, dreaming of going to the pool, or eating at the club house.  Later to lose that island, but to be living a life where I am your rock, supporting you like I did on that \"Saturday\".  Only to now, I go days, weeks in between each time you cross my mind. "),
         PoetryProps("5/16/24", "Lust Rushes, Love Waits."),
         PoetryProps("5/15/24", "I saw Snoqualmie Falls today."),
         PoetryProps("5/15/24", "The question of worth it is reliant on an outcome, its not the mindset to make something great.  Your work is to make the best thing you can, whatever happens after that, happens."),
@@ -24,7 +29,7 @@ export function MasterListOfPoetry() {
         PoetryProps("5/5/24", "No one else can you make you feel a certain way, unless you yourself agree to it."),
         PoetryProps("5/4/24", "I am my own worst bully"),
         PoetryProps("5/2/24", "When surrounded by darkness your only duty is to shine."),
-        PoetryProps("5/1/24", "There are two types of people in this world, those who want to get laid, and liers> ~ Welden"),
+        PoetryProps("5/1/24", "There are two types of people in this world, those who want to get laid, and liers. ~ Welden"),
         PoetryProps("4/28/24", "The mystery of life is not a problem to be solved, but a reality to be experienced."),
         PoetryProps("4/28/24", "Theres a reason acceptance is a stage of grief rather than a marker for its end."),
         PoetryProps("4/21/24", "Lover? If I describe love, it is when I am in a friendship with a woman, and I am finding gratification out of seeing her happy, at that point I think I am in love with her. ~ 50 cent"),
