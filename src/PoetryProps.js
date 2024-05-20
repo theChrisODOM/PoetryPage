@@ -9,6 +9,8 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("5/19/24",  "If you find yourself falling in love because someone brings laughter into your life, what happens when their jokes no longer amuse you? If you fall in love because of someone's beauty, how will your feelings endure when the relentless march of time erodes that beauty? And if your love is anchored in the financial security someone provides, what will happen if their wealth evaporates? True love, in its purest  form, transcends all conditions and superficial reasons.  When you genuinely love someone, you stop seeking reasons and explanations for your affection. It's a love that sees beyond humor, beauty, or wealth. This kind of love is  unwavering and unconditional, not tethered to the changing tides of circumstance or appearance. At the core of true love, there lies a bond that defies rational thought: the acceptance and appreciation of one another exactly as they are,  regardless of what life may bring." ),
+        PoetryProps("5/18/24", "When life gives you lemons, make an apology video."),
         PoetryProps("5/18/24", "Don't you want your first impression to be your best self?"),
         PoetryProps("5/18/24", "If the rule you followed brought you to this, what use the rule?"),
         PoetryProps("5/18/24", "You who suffers before it is necessary, suffers more than is necessary."),
