@@ -28,7 +28,7 @@ function App() {
         <br></br>
         <h4>Filter Box</h4>
         <input className="filterBox" name="FilterBox" value={textFilter} onChange={handleChange} placeholder='Search the Cards below by Text' />
-        {masterListOfPoetry.filter((currentValue) => {return currentValue.poetry.toLowerCase().includes(textFilter.toLowerCase())}).map((currentValue) => {return <PoetryCard date={currentValue.date} poetry={currentValue.poetry}/>})}
+        {masterListOfPoetry.filter((currentValue) => {return currentValue.poetry.toString().toLowerCase().includes(textFilter.toLowerCase())}).map((currentValue) => {return <PoetryCard date={currentValue.date} poetry={currentValue.poetry}/>})}
       </div>
     </div>
   );
