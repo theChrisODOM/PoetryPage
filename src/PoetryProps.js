@@ -9,6 +9,11 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("6/6/24", "Thanks Chris.  I appreciate your concern, feel free to contact me anytime. ~ RM"),
+        PoetryProps("6/5/24", "You could cheat on him, lie to him, betray him, deny him three times even, and he will still love you.  His love is unconditional."),
+        PoetryProps("6/4/24", "If God is all powerful and all knowing, why bad things happen? Why bad things happen to good people? Read the book of Job, and you will get your answer."),
+        PoetryProps("6/3/24", "If you hang around people who act like you aren't who you are, then you will forget who you are ~ ye"),
+        PoetryProps("6/2/24", "Life sucks, it sucks, but every once in a while it's good and that's what you live for."),
         PoetryProps("6/1/24", "In order to move onto the next chapter of life, you must stop re-reading the old chapters."),
         PoetryProps("6/1/24", <a href="https://youtu.be/t31H-K7VCGg?si=GH9kcafqZmVRDd7z&t=458">I gave you a choice, live ... or die.</a>),
         PoetryProps("6/1/24", <a href="https://youtu.be/McyA9_gcmlA?si=w-mojlmfSmBzzlja&t=101">No, NO!</a>),
