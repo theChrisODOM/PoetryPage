@@ -9,6 +9,7 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("6/7/24", "You are my first.  Noy my first kiss, not my first relationship, not my first \"I love you\".  You are the first person who makes me feel like I am enough, and the first one to show me what \" I love you \" really means."),
         PoetryProps("6/6/24", "Thanks Chris.  I appreciate your concern, feel free to contact me anytime. ~ RM"),
         PoetryProps("6/5/24", "You could cheat on him, lie to him, betray him, deny him three times even, and he will still love you.  His love is unconditional."),
         PoetryProps("6/4/24", "If God is all powerful and all knowing, why bad things happen? Why bad things happen to good people? Read the book of Job, and you will get your answer."),
