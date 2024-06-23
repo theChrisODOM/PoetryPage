@@ -24,8 +24,10 @@ function App() {
         <header className="App-header">
         </header>
         <br></br>
-          A home for all types of poems and important quotes, dated when I found them, and cited when possible.
-        <br></br>
+          This webpage began as a healing project, and has continued on as a sort of Journaling, Diary, as well as a place to document my thoughts.  Anyone is welcome to read this information, and hopefully gain wisdom from the words here.  
+          <br></br><br></br>
+          Additionally you will find here all types of poems and important quotes, dated when I found them, and cited when possible.
+        <br></br><br></br>
         <h4>Filter Box</h4>
         <input className="filterBox" name="FilterBox" value={textFilter} onChange={handleChange} placeholder='Search the Cards below by Text' />
         {masterListOfPoetry.filter((currentValue) => {return currentValue.poetry.toString().toLowerCase().includes(textFilter.toLowerCase())}).map((currentValue) => {return <PoetryCard date={currentValue.date} poetry={currentValue.poetry}/>})}

@@ -9,6 +9,9 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("6/23/24", "To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.  ~ John Dewey"),
+        PoetryProps("6/23/24", "HE commands the winds and the seas of Chaos, no one else."),
+        PoetryProps("6/23/24", "Lust is a perversion of love.  The more lust you have in your heart, the less room you have for love."),
         PoetryProps("6/22/24", "This is not ego, this is not pride, I believe this is my vocation, and the answer to the question of why we are so deeply connected.  You prayed for a friend.  I am God's \"unanswered\" prayer."),
         PoetryProps("6/22/24", "I cannot vanish, you will not scare me; Try to get through it, try to push through it; You were not thinking that I will not do it; They be lovin' someone and I'm another story; Take the next ticket, get the next train; Why would I do it?; Anyone'd think that-"),
         PoetryProps("6/22/24", "You can go and live in France, but you can not be a frenchman, you can go to live in Germay or Turkey or Japan, but you can not become a german a turk or japanese.  But anyone from any corner of the earth, can come and live in America and become an American. ~ Ronald Regan"),
