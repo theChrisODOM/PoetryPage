@@ -9,7 +9,12 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
-        PoetryProps("6/18/24", "When I first saw you, you showed me a picture of blue, it was from a final date.  The last time I will see you, you will also show me a picture, but this time it will be black with polka dots.  Ironic is it not?"),
+        PoetryProps("6/22/24", "This is not ego, this is not pride, I believe this is my vocation, and the answer to the question of why we are so deeply connected.  You prayed for a friend.  I am God's \"unanswered\" prayer."),
+        PoetryProps("6/22/24", "I cannot vanish, you will not scare me; Try to get through it, try to push through it; You were not thinking that I will not do it; They be lovin' someone and I'm another story; Take the next ticket, get the next train; Why would I do it?; Anyone'd think that-"),
+        PoetryProps("6/22/24", "You can go and live in France, but you can not be a frenchman, you can go to live in Germay or Turkey or Japan, but you can not become a german a turk or japanese.  But anyone from any corner of the earth, can come and live in America and become an American. ~ Ronald Regan"),
+        PoetryProps("6/22/24", "When healing from a person, you will have thoughts like, I love them more than I loved anyone.  I never knew I could love someone so much and I will never love someone that much again.It is important to realize that your ability to love that person did not come from them, it came from within you.  You were always a lover, already someone who could love deeply.  Just because they are gone, does not mean that goes away.  They did not give you the capacity to love, they just gave you a place to express it.  Do not give someone else credit for how hard you could love, that was you and still is."),
+        PoetryProps("6/22/24", "Things can be deleted, but there is always a record of it somewhere, what did that card originally say?"),
+        PoetryProps("6/18/24", "-"),
         PoetryProps("6/18/24", "I am really glad we did this, I love these pancakes.  What? Tom Dont Go, you are still my best friend."),
         PoetryProps("6/18/24", "I HATE SUMMER!"),
         PoetryProps("6/16/24", "I have dreamed of you so often, you are no longer real. ~ Dean Young"),
