@@ -9,6 +9,14 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("6/24/24", "You're killing me, Smalls! ~ Ham Porter"),
+        PoetryProps("6/24/24", "The AXE Forgets But the Tree Remembers."),
+        PoetryProps("6/24/24", "Worrying is like a rocking chair: It gives you something to do but gets you nowhere. ~ Van Wilder"),
+        PoetryProps("6/24/24", "I came here tonight because when you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible."),
+        PoetryProps("6/24/24", "A crown is merely a hat that lets the rain in.  ~ Frederick the Great"),
+        PoetryProps("6/24/24", "You know why the right thing feels wrong? Because you are not used to it ~ Caitlin"),
+        PoetryProps("6/24/24", "Your not a bad guy, you are just a man ~ Caitlin"),
+        PoetryProps("6/24/24", "The question is, do you have it in you to make it epic? ~ Dementis"),
         PoetryProps("6/23/24", "To find out what one is fitted to do, and to secure an opportunity to do it, is the key to happiness.  ~ John Dewey"),
         PoetryProps("6/23/24", "HE commands the winds and the seas of Chaos, no one else."),
         PoetryProps("6/23/24", "Lust is a perversion of love.  The more lust you have in your heart, the less room you have for love."),
