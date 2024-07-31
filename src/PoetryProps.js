@@ -9,6 +9,7 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("7/30/24", "You were always the wrong guy! Until you weren't....."),
         PoetryProps("7/30/24", "A healthy relationship is one where two independent people just make a deal that they will help make the other person be the best version of themselves."),
         PoetryProps("7/30/24", "Frequently in life, I find myself making educated wishes.  Thank you Deadpool for helping me verbalize this feeling."),
         PoetryProps("7/22/24", "If you do not heal from what hurt you, you will bleed on people who did not cut you"),
