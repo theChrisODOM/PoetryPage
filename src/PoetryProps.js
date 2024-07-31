@@ -9,6 +9,9 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("7/30/24", "FRequently in life, I find myself making educated wishes.  Thank you Deadpool for helping me verbalize this feeling."),
+        PoetryProps("7/22/24", "If you do not heal from what hurt you, you will bleed on people who did not cut you"),
+        PoetryProps("7/21/24", "You are not always your own type!"),
         PoetryProps("7/20/24", "Lets go gambling! ChtChtCht Awe Dang it! ChtChtCHt Awe Dang it! ChtChtCHt Bing Bing Bing Bing Bing."),
         PoetryProps("7/20/24", "Thank you for the sunshine you add to the world :D"),
         PoetryProps("7/20/24", "You are worth finding, worth knowing, worth loving, you and all your one million layers, always hold that close ~ Danielle Doby"),
@@ -16,7 +19,6 @@ export function MasterListOfPoetry() {
         PoetryProps("7/18/24", "No, it's much more beautiful than that. That's a moth cocoon. It's ironic - butterflies get all the attention, but moths, they spin silk. They're stronger. They're faster. You see this little hole? This moth's just about to emerge. It's in there right now, struggling. It's digging its way through the thick hide of the cocoon. Now, I could help it - take my knife, gently widen the opening, and the moth would be free - but it would be too weak to survive. Struggle is nature's way of strengthening it. Now this is the second time you've asked me for your drugs back... ask me again, and it's yours."),
         PoetryProps("7/17/24", "I fucking told you so, NOT A DOUBT IN MY MIND.  And so the snake's identity has been revealed"),
         PoetryProps("7/16/24", "What did one plate say to the other plate? Dinner is on me"),
-        PoetryProps("7/16/24", "What do you call a dog that meditates? Aware Wolf"),
         PoetryProps("7/16/24", "What do you call a dog that meditates? Aware Wolf"),
         PoetryProps("7/8/24", "In order to fumble you must first have posession"),
         PoetryProps("7/8/24", "If I give you one message to hold in your hearts today, it’s this:  ...  The more people tell you it’s not possible, that it can’t be done, the more you should be absolutely determined to prove them wrong. Treat the word “impossible” as nothing more than motivation. Relish the opportunity to be an outsider. Embrace that label.   ...   because it’s the outsiders who change the world and who make a real and lasting difference. The more that a broken system tells you that you’re wrong, the more certain you should be that you must keep pushing ahead  ~ Donald J. Trump"),
