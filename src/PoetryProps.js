@@ -9,6 +9,9 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("9/26/24", "People who were meant to be in your life, will be in your life.  You cannot force your love, and do not give it to those who do not want it  ~ Me."),
+        PoetryProps("9/25/24", "Saying what's on your mind will never lose you someone who is supposed to be in your life.  ~ Emily Wood"),
+        PoetryProps("9/21/24", "Things are precious because they end."),
         PoetryProps("9/6/24", "Praise the Omnissiah."),
         PoetryProps("9/5/24", "Good luck and have fun."),
         PoetryProps("9/3/24", "Never deprive anyone of hope, it may be all they have."),
@@ -17,7 +20,7 @@ export function MasterListOfPoetry() {
         PoetryProps("8/27/24", "Just do good things and good things will happen to you mate."),
         PoetryProps("8/27/24", "So how do I do it, how do I turn my dreams into reality?"),
         PoetryProps("8/27/24", "What is the first thing anyone does before they start their day? You Wake Up,"),
-        PoetryProps("8/25/24", "He may have gone too far, but deep down I believe he is a good man."),
+        PoetryProps("8/25/24", "He may have gone too far, but deep down I believe he is a good man. ~ Ray M"),
         PoetryProps("8/20/24", "No matter who you blame for your problems, they are still your problems to solve."),
         PoetryProps("7/30/24", "You were always the wrong guy! Until you weren't....."),
         PoetryProps("7/30/24", "A healthy relationship is one where two independent people just make a deal that they will help make the other person be the best version of themselves."),
