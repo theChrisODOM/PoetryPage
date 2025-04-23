@@ -9,9 +9,12 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("4/22/25", "You got to be heaven, in order to see heaven, may peacy be with you."),
+        PoetryProps("4/22/25", "Consider the flowers, they do not try to look right, they just open their petals and loot into the light."),
+        PoetryProps("4/20/25", "He is Risen!"),
+        PoetryProps("4/10/25", "Goodbye Forever K"),
         PoetryProps("10/6/24", "That's not even toxic or manipulative, thats very precise linear and honest. ~ Drewbertc."),
         PoetryProps("10/5/24", "What is your greatest fear is that nont that we are inadequate but that we are powerful beyond measures."),
-        PoetryProps("9/26/24", "People who were meant to be in your life, will be in your life.  You cannot force your love, and do not give it to those who do not want it  ~ Me."),
         PoetryProps("9/26/24", "People who were meant to be in your life, will be in your life.  You cannot force your love, and do not give it to those who do not want it  ~ Me."),
         PoetryProps("9/25/24", "Saying what's on your mind will never lose you someone who is supposed to be in your life.  ~ Emily Wood"),
         PoetryProps("9/21/24", "Things are precious because they end."),
