@@ -9,6 +9,7 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(
+        PoetryProps("10/06/25", "Run npm i. No idiot I did not say dash ~ Devon"),
         PoetryProps("4/22/25", "You got to be heaven, in order to see heaven, may peacy be with you."),
         PoetryProps("4/22/25", "Consider the flowers, they do not try to look right, they just open their petals and loot into the light."),
         PoetryProps("4/20/25", "He is Risen!"),
