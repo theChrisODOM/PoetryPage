@@ -3,11 +3,20 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { CssVarsProvider } from '@mui/joy';
+import { extendTheme } from '@mui/joy/styles';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+const theme = extendTheme({
+  colorSchemeSelector: 'media',
+});
+
 root.render(
   <React.StrictMode>
-    <App />
+    <CssVarsProvider theme={theme}>
+      <App />
+    </CssVarsProvider>
   </React.StrictMode>
 );
 

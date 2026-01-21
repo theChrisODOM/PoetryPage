@@ -1,11 +1,8 @@
 .App {
   text-align: center;
-  background-color: #000000;
+  background-color: #010411;
 }
 
-Body {
-  background-color: #000000;
-}
 
 .title {
   word-break: break-word;
@@ -17,12 +14,8 @@ Body {
 .App-header {
   background-repeat: no-repeat;
   background-position: 50% -20vw;
-  background-attachment: local;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  font-size: calc(14px + 2vmin);
-  color: white;
+  font-size: calc(10px + 1vmin);
+  margin: 3rem;
 }
 
 .filterBox {
@@ -31,45 +24,12 @@ Body {
 
 .PoetrySection {
   margin-left: auto;
-  background-color: #07295c;
+  background-color: #021025;
   margin-right: auto;
   width: 70vw;
   min-width: 26rem;
   min-height: 90vh;
-  border: solid 2px rgb(122, 108, 172);
-  color: white;
-}
-
-.PoetryCard {
-  border: solid 2px rgb(129, 125, 184);
-  margin-top: 3rem;
-  margin-bottom: 5rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  padding: 2rem;
-  box-shadow: 10px 10px 100px black inset;
-  font-size: 5rem;
-  display: flex;
-  flex-direction: row;
-}
-
-.PoetryDate {
-  font-size: 20px;
-  width: 6rem;
-}
-
-.PoetryText {
-  font-size: 18px;
-  padding-left: 1rem;
-  padding-right: 2rem;
-  text-align: justify;
-  text-justify: inter-word;
-}
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  border-left: solid 1px rgb(255, 255, 255);
+  border-right: solid 1px rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
 }
