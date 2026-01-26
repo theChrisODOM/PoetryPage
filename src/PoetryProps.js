@@ -9,6 +9,8 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(         
+        PoetryProps("1/26/26", "Unconditionally"),
+        PoetryProps("1/26/26", "Things always seem to work out for us ~ bellatorex"),
         PoetryProps("1/20/26", "Saying what's on your mind will never lose you someone who is supposed to be in your life.  ~ Emily Wood"),
         PoetryProps("1/19/26", "We all crave to be seen, to be known.  The greatest gift of a relationship, platonic or romantic, is that your life is witnessed and your trials and acheivements are known."),
         PoetryProps("1/10/26", "The year is off to a rocky start, but there are many things to look forward to.  When one door closes, another door opens.  Even though things die in the autumn and winter, neave \"leafs\" will grow again in the spring.  Never forgot who you are, always love yourself, and do not pray for easy lives, for the path to life worth living, is never a path that is paved.  Each life is uniquire in and of itself, your timeline is never shared with someone else."),
@@ -33,7 +35,7 @@ export function MasterListOfPoetry() {
         PoetryProps("8/25/24", "He may have gone too far, but deep down I believe he is a good man. ~ Ray M"),
         PoetryProps("8/20/24", "No matter who you blame for your problems, they are still your problems to solve."),
         PoetryProps("7/30/24", "You were always the wrong guy! Until you weren't....."),
-        PoetryProps("7/30/24", "A healthy relationship is one where two independent people just make a deal that they will help make the other person be the best version of themselves."),
+        PoetryProps("7/30/24", "A healthy relationship is one where two independent people just make a deal that they will help make each other become the best version of themselves, uncoditionally."),
         PoetryProps("7/30/24", "Frequently in life, I find myself making educated wishes.  Thank you Deadpool for helping me verbalize this feeling."),
         PoetryProps("7/22/24", "If you do not heal from what hurt you, you will bleed on people who did not cut you"),
         PoetryProps("7/21/24", "You are not always your own type!"),
