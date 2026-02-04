@@ -9,11 +9,15 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(         
+        PoetryProps("2/3/26", "Just do not be sad little bro, it is that easy."),
+        PoetryProps("2/2/26", "It is healthy to be in a flow state where you are directing your attention away from things that bother you and towards productive activities that stimulate you."),
+        PoetryProps("1/29/26", "Only the weak put blame on luck. ~ bellatorex"),
+        PoetryProps("1/27/26", "Today, you are the oldest you have ever been, and the youngest y ou will ever be, okay?"),
         PoetryProps("1/26/26", "Unconditionally"),
-        PoetryProps("1/26/26", "Things always seem to work out for us ~ bellatorex"),
+        PoetryProps("1/26/26", "Things always seem to ~~~~~ \"even out\" for me. ~ bellatorex"),
         PoetryProps("1/20/26", "Saying what's on your mind will never lose you someone who is supposed to be in your life.  ~ Emily Wood"),
         PoetryProps("1/19/26", "We all crave to be seen, to be known.  The greatest gift of a relationship, platonic or romantic, is that your life is witnessed and your trials and acheivements are known."),
-        PoetryProps("1/10/26", "The year is off to a rocky start, but there are many things to look forward to.  When one door closes, another door opens.  Even though things die in the autumn and winter, neave \"leafs\" will grow again in the spring.  Never forgot who you are, always love yourself, and do not pray for easy lives, for the path to life worth living, is never a path that is paved.  Each life is uniquire in and of itself, your timeline is never shared with someone else."),
+        PoetryProps("1/10/26", "The year is off to a rocky start, but there are many things to look forward to.  When one door closes, another door opens.  Even though things die in the autumn and winter, new \"leafs\" will grow again in the spring.  Never forgot who you are, always love yourself, and do not pray for easy lives, for the path to life worth living, is never a path that is paved.  Each life is uniquie in and of itself, your timeline is never shared with someone else."),
         PoetryProps("10/06/25", "Run npm i. No idiot I did not say dash ~ Devon"),
         PoetryProps("4/22/25", "You got to be heaven, in order to see heaven, may peacy be with you."),
         PoetryProps("4/22/25", "Consider the flowers, they do not try to look right, they just open their petals and loot into the light."),
