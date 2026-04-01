@@ -9,6 +9,7 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push(         
+        PoetryProps("3/31/26", "I am the original Chud. ~ Broseph18"),
         PoetryProps("3/22/26", "To love for the sake of being loved is human, but to love for the sake of loving is angelic. ~  Alphonse de Lamartine"),
         PoetryProps("3/20/26", "The Garden King is back."),
         PoetryProps("3/17/26", "I never wanted to hurt you."),
