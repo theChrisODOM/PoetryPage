@@ -8,12 +8,16 @@ export function PoetryProps(date, poetry) {
 
 export function MasterListOfPoetry() {
     const list = []
-    list.push(         
+    list.push
+        PoetryProps("5/26/26", "The best way to learn something is through immersion."),
+        PoetryProps("5/25/26", "You gotta stay gaming bruh."),
+        PoetryProps("5/21/26", "Fall Seven, Rise Eight."),
+        PoetryProps("5/20/26", "I made a friend who is teaching me Japanese."),
+        PoetryProps("5/19/26", "The showers are nice here."),
         PoetryProps("3/31/26", "I am the original Chud. ~ Broseph18"),
         PoetryProps("3/22/26", "To love for the sake of being loved is human, but to love for the sake of loving is angelic. ~  Alphonse de Lamartine"),
         PoetryProps("3/20/26", "The Garden King is back."),
         PoetryProps("3/17/26", "I never wanted to hurt you."),
-        PoetryProps("3/17/26", "It was never good bye forever K, once you have what we have, you can never truly be gone.  You will always have a place in my heart, and I am sorry I could not take the leap of faith."),
         PoetryProps("2/17/26", "Repeated. Never waste an opportunity to tell someone you love them."),
         PoetryProps("2/3/26", "Just do not be sad little bro, it is that easy."),
         PoetryProps("2/2/26", "It is healthy to be in a flow state where you are directing your attention away from things that bother you and towards productive activities that stimulate you."),
@@ -28,7 +32,6 @@ export function MasterListOfPoetry() {
         PoetryProps("4/22/25", "You got to be heaven, in order to see heaven, may peacy be with you."),
         PoetryProps("4/22/25", "Consider the flowers, they do not try to look right, they just open their petals and loot into the light."),
         PoetryProps("4/20/25", "He is Risen!"),
-        PoetryProps("4/10/25", "Goodbye Forever K"),
         PoetryProps("10/6/24", "That's not even toxic or manipulative, thats very precise linear and honest. ~ Drewbert."),
         PoetryProps("10/5/24", "What is your greatest fear? is that not that we are inadequate but that we are powerful beyond measures."),
         PoetryProps("9/26/24", "People who were meant to be in your life, will be in your life.  You cannot force your love, and do not give it to those who do not want it  ~ Me."),
