@@ -9,7 +9,8 @@ export function PoetryProps(date, poetry) {
 export function MasterListOfPoetry() {
     const list = []
     list.push
-        PoetryProps("6/6/26", "I was hurt by your actions and inactions. You were disrespectful, by being late, not communicating, nor including me in your thoughts.  I will never have the privilege of sharing this with you, because being honest about my feels will cause you to turn away."),
+        PoetryProps("6/11/26", "That is a weird looking fishing rod. ~ Jésus"),
+        PoetryProps("6/6/26", "I was hurt by your actions and inactions. I will never have the privilege of sharing this with you, because being honest about my feels will cause you to turn away."),
         PoetryProps("5/26/26", "The best way to learn something is through immersion."),
         PoetryProps("5/25/26", "You gotta stay gaming bruh."),
         PoetryProps("5/21/26", "Fall Seven, Rise Eight."),
